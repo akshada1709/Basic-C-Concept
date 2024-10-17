@@ -9,7 +9,7 @@ namespace LoopAssigmnet1
 {
     internal class Program
     {
-        static void Main(string[] args)
+       /* static void Main(string[] args)
         {
             //  1.Display numbers from 1 to 100.
             Console.WriteLine(" number from 1 to 100 is ");
@@ -181,6 +181,6 @@ namespace LoopAssigmnet1
             //  output Automorphic
             //as 25 * 25 = 625
 
-        }
+        } */
     }
 }
